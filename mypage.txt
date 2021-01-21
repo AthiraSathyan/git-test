@@ -1,0 +1,15 @@
+<html>
+<head>
+<style>
+body{background-color:light blue;}
+h1{color:black;
+font-size:400%;}
+p{color:black;
+border:2px solid white;}
+</style>
+<title>my page</title>
+</head>
+<body>
+this is my page
+</body>
+</html>
